@@ -77,6 +77,11 @@ const PrivacyPolice = () => {
 						<p>For "Strictly Necessary cookies" we are processing your personal data according to Art. 6 (1) (f) UK GDPR for the legitimate purposes explained in the title below.</p>
 						<p>With regards to "Performance Cookies", "Functional Cookies" and "Targeting cookies", we are processing your personal data based on your consent according to Art. 6 (1) (a) UK GDPR for the purposes explained below. Your consent is collected and registered following the selection of your cookie preferences in our cookie banner.</p>
 						<p><strong>In case you would like to change your cookies preferences, please go to "cookie settings" at the end of the "cookies" section of this privacy policy.”</strong></p>
+
+						<div id="ot-sdk-cookie-policy"></div>
+						<button id="ot-sdk-btn" className="ot-sdk-show-settings">Cookie Settings</button>
+
+
 					</section>
 
 					<section>
