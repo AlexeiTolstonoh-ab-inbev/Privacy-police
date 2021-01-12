@@ -4,10 +4,10 @@ tr, td, th {
 }
 ul { list-style: none; }
 .listContainer{
-    padding: 20px;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
+    width: 100%;
 }
 .orderListContainer{
     display: flex;
@@ -47,5 +47,6 @@ li{
     }
     .listContainer{
         max-width: 67%;
+        padding: 20px;
     }
 }

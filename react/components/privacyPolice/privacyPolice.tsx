@@ -101,14 +101,15 @@ const PrivacyPolice = () => {
 						<h4 id="Data_Management_Platforms">Data Management Platforms</h4>
 						<p>Your data may be collected processed in our Data Management Platform (DMP) operated by Salesforce.com, Inc. Our purpose of using DMP is to ensure that you receive advertisements tailored to your interests in our and other sites that you visit. A DMP is an advertising technology that automatically creates audience segments to share the best of our campaigns. A DMP uses cookie and non-cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on or off this website. DMP automatically analyses and categorizes data deriving from different sources for example other sites and from other beer lovers.</p>
 						<p>We will only process your personal data for this purpose after you have provided us you consent, in accordance with Art. 6 (1) (a) UK GDPR. You will not suffer any detriment if you would like your data not to be send to one or all DMP providers. You can withdraw your consent on the cookie banner.</p>
-						<p>After you consent to this operation our DMP will start processing your data and it will be shared with other parties such as publishers, marketing data providers and business partners. Salesforce.com,Inc. is another data controller who carries out data processing upon whom we however have only limited influence. In case you would like to know more about this technology please review the information provided by the Salesforce.com, Inc. for further guidance. https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-privacy/</p>
+						<p>After you consent to this operation our DMP will start processing your data and it will be shared with other parties such as publishers, marketing data providers and business partners. Salesforce.com,Inc. is another data controller who carries out data processing upon whom we however have only limited influence. In case you would like to know more about this technology please review the information provided by the Salesforce.com, Inc. for further guidance. www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-privacy/</p>
 
 					</section>
 					<section>
 						<h4 id ="Customer_Data_Platform">Customer Data Platform</h4>
 						<p>Our website has in place a Customer Data Platform(CDP). Our purpose in using CDP is to ensure that you receive advertisement content tailored to your interests in our websites and also in external sites you visit. A CDP is an advertising technology that automatically creates audience segments to share the best of our campaigns with you and other beer lovers. Our CDP automatically analyses and categorizes data deriving from different sources, for example, other sites and other website users.</p>
 						<p>We will only process your personal data after you provide us your consent, following Art. 6 (1) (a) UK GDPR. You will not suffer any detriment if you don't consent to this operation.</p>
-						<p>Once consent is provided, our CDP will start processing your data and it will be shared with other business partners of ARM Treasure Data using the same tool. The data controller for this operation is Treasure Data, Inc., so please keep in mind that AB InBev has no control over who your data is shared with as this is unilaterally determined by the CDP. As the technology of a CDP is very complex and various stakeholders are involved, in case you would like to know more about this operation please review the information provided by the Treasure Data, Inc.] for further guidance.https://www.treasuredata.com/privacy/.</p>
+						<p>Once consent is provided, our CDP will start processing your data and it will be shared with other business partners of ARM Treasure Data using the same tool. The data controller for this operation is Treasure Data, Inc., so please keep in mind that AB InBev has no control over who your data is shared with as this is unilaterally determined by the CDP. As the technology of a CDP is very complex and various stakeholders are involved, in case you would like to know more about this operation please review the information provided by the Treasure Data, Inc.]</p>
+						<p>for further guidance www.treasuredata.com/privacy/.</p>
 					</section>
 
 					<section>
@@ -172,11 +173,10 @@ const PrivacyPolice = () => {
 
 					<section>
 						<h4 id="Call_Recording_Privacy">Call Recording Privacy</h4>
-						<p>AB InBev may record telephone calls made to its call centre in order to have a record of customer orders for AB InBev products, resolve complaints arising therefrom and for quality control purposes. To review our Call Recording Privacy Policy please click here:
-							<a href="https://budweiserbrewinggroup.co.uk/call-recording-privacy/"
-							   target="_blank">https://budweiserbrewinggroup.co.uk/call-recording-privacy
-							</a>
-						</p>
+						<p>AB InBev may record telephone calls made to its call centre in order to have a record of customer orders for AB InBev products, resolve complaints arising therefrom and for quality control purposes. To review our Call Recording Privacy Policy please click here:</p>
+						<a href="https://budweiserbrewinggroup.co.uk/call-recording-privacy/"
+						   target="_blank">https://budweiserbrewinggroup.co.uk/call-recording-privacy
+						</a>
 					</section>
 				</div>
 			</div>
